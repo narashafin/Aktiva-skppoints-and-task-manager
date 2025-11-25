@@ -1,5 +1,5 @@
-                                           AKTIVA
-                                 SKP Points and Task Manager
+                                               AKTIVA
+                                     SKP Points and Task Manager
 
 **Aktiva** adalah aplikasi dekstop sederhana berbahasis **Java Swing** yang membantu mahasiswa UNSIKA dalam manajemen:
 - Tugas akademik
