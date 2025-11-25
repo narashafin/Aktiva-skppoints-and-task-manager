@@ -25,7 +25,7 @@ Berikut ini adalah tampilan welcome dan dashboard (halaman pertama yang ditampil
 - **Tambah dan hapus tugas/aktivitas**
 - **Halaman khusus untuk melihat list tugas/aktivitas berdasarkan Kategori: Akademik dan Nonakademik**
 - **Notifikasi otomatis ketika mendekati deadline**
-- Notifikasi berjalan otomatis setiap aplikasi dibuka)
+  Notifikasi berjalan otomatis setiap aplikasi dibuka)
 - **Perhitungan poin SKP otomatis berdasarkan aturan UNSIKA**
   Aplikasi juga mendukung penyimpanan file/foto kegiatan. File disimpan ke folder server otomatis, sementara di database hanya disimpan nama filenya.
 - **Halaman khusus untuk melihat semua daftar skp yang dicatat**
